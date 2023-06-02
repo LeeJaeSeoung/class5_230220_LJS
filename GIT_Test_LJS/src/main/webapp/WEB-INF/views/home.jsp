@@ -6,9 +6,9 @@
 </head>
 <body>
 <h1>
-	Hello world!  
+	Shared 디렉토리 삭제 후 변경 - 재변경
 </h1>
-dd
+
 <P>  The time on the server is ${serverTime}. </P>
 </body>
 </html>
